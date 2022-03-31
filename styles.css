@@ -1,0 +1,33 @@
+body{
+    background-color: #3c3c48;
+    color: #67d7a3;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+
+h1{
+  font-size: 8rem;
+  font-weight: bold;
+  margin-bottom: 5rem;
+}
+
+h2{
+    margin-bottom: 3rem;
+
+  /*   font-size: 2rem; */
+}
+
+.container-fluid{
+    padding: 7% 15%;
+}
+
+.row{
+    width: 50%;
+    margin: 0 auto 45px;
+    
+}
+
+P{
+    color: white;
+    font-family: sans-serif;
+}
